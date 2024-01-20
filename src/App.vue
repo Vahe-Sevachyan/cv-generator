@@ -4,7 +4,7 @@ import PersonalName from "./components/PersonalName.vue";
 
 <template>
   <div></div>
-  <PersonalName firstName="First Name" />
+  <PersonalName />
 </template>
 
 <style scoped>
