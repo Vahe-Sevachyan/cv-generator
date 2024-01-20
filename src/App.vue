@@ -1,10 +1,10 @@
 <script setup>
-import HelloWorld from "./components/HelloWorld.vue";
+import PersonalName from "./components/PersonalName.vue";
 </script>
 
 <template>
   <div></div>
-  <HelloWorld msg="BM" />
+  <PersonalName firstName="First Name" />
 </template>
 
 <style scoped>
